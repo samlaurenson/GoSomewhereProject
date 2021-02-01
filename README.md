@@ -10,6 +10,11 @@ App language can be changed by changing phone language. Available languages incl
 
 In order to run, the minimum Android OS version should be Android 4.1.
 
+**API key must be created and replaced with the "YOUR_API_KEY_HERE" bits in SearchLocations.java and google_maps_api.xml** \
+API's that need to be enabled include:
+  - Maps SDK for Android
+  - Places API
+
 # On App Start-Up
 ![App Startup](https://i.gyazo.com/e188868c9b1c3b73ac40d1f8028e57cd.png)
 ![App Startup 2](https://i.gyazo.com/c2481d70bb1c160bb09585f26f31b29c.png)
