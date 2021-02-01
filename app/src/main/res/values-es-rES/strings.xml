@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="you_are_here">Tú estás aquí</string>
+    <string name="drawer_open">Abierto</string>
+    <string name="drawer_close">Cerca</string>
+    <string name="toast_location_granted">Permisos de ubicaciones otorgados</string>
+    <string name="radius_limits">El radio debe estar entre 1 y 50</string>
+    <string name="no_locations">No hay lugares para mostrar - Añadir filtros para obtener ubicaciones</string>
+    <string name="button_go_somewhere">Ir a algún lugar</string>
+    <string name="radius_textview">Radio (Millas):</string>
+    <string name="checkbox_parks">Parques y jardines</string>
+    <string name="checkbox_tourist">Puntos turísticos</string>
+    <string name="checkbox_natural">Características naturales</string>
+    <string name="button_apply_filters">Aplicar filtros</string>
+    <string name="textview_about">Acerca de</string>
+    <string name="about_1">GoSomewhere es uno aplicación diseñado para hacer que decidir a dónde ir sea mucho menos estresante e inductor de dolor al ayudarlo a decidir a dónde irá. Para encontrar lugares a donde ir, utilice la pestaño "Filtrar resultados" que se puede encontrar en el menú. En esto págino, puede ingresar el radio que deseo buscar desde su ubicación actual y verificar los tipos de lugares que estarío dispuesto a visitar. Después de presionar el botón "Aplicar filtros", tendrá ubicaciones marcadas en su mapa y todo lo que necesito hacer es presionar el botón "Ir a algún lugar" para seleccionar un ubicación aleatoria. Esto aplicación está diseñada para que decidir dónde ir sea mucho menos estresante e inductor de dolor. Feliz viaje</string>
+    <string name="about_2">Para que esto aplicación funcione, debe permitir la ubicación y los privilegios de internet.</string>
+    <string name="about_3">Esto aplicación también funciona en los siguientes idiomas:</string>
+    <string name="about_english">- Inglés</string>
+    <string name="about_spanish">- Español</string>
+    <string name="filter_search">Filtrar búsqueda</string>
+    <string name="map">Mapa</string>
+</resources>
